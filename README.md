@@ -1,12 +1,12 @@
 # ToDoList
 
-[ToDoList](https://github.com/okayVeronica/ToDoList/blob/main) 
-[Introdução](https://github.com/okayVeronica/ToDoList/blob/main)
-[Executando o Projeto](https://github.com/okayVeronica/ToDoList/blob/main)
-[Como usar](https://github.com/okayVeronica/ToDoList/blob/main)
-[Tecnologias ultilizadas](https://github.com/okayVeronica/ToDoList/blob/main)
-[Fontes consultadas](https://github.com/okayVeronica/ToDoList/blob/main)
-[Autores](https://github.com/okayVeronica/ToDoList/blob/main)
+[ToDoList](#todolist-1) 
+[Introdução](#introdu%C3%A7%C3%A3o)
+[Executando o Projeto](#executando-o-projeto)
+[Como usar](#como-usar)
+[Tecnologias ultilizadas](#tecnologias-ultilizadas)
+[Fontes consultadas](#fontes-consultadas)
+[Autores](#autores)
 
 ![Capa do projeto](img1.png)
 
