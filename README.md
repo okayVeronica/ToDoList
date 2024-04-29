@@ -1,14 +1,14 @@
 # ToDoList
 
-[ToDoList]() 
-[Introdução]()
-[Executando o Projeto]()
-[Como usar]()
-[Tecnologias ultilizadas]()
-[Fontes consultadas]()
-[Autores]()
+[ToDoList](https://github.com/okayVeronica/ToDoList/blob/main) 
+[Introdução](https://github.com/okayVeronica/ToDoList/blob/main)
+[Executando o Projeto](https://github.com/okayVeronica/ToDoList/blob/main)
+[Como usar](https://github.com/okayVeronica/ToDoList/blob/main)
+[Tecnologias ultilizadas](https://github.com/okayVeronica/ToDoList/blob/main)
+[Fontes consultadas](https://github.com/okayVeronica/ToDoList/blob/main)
+[Autores](https://github.com/okayVeronica/ToDoList/blob/main)
 
-![Capa do projeto]()
+![Capa do projeto](img1.png)
 
 ## ToDoList 
 Este é um simples gerenciador de tarefas implementado em PHP. Permite que os usuários cadastrem tarefas e as visualizem em uma lista. O projeto utiliza HTML, CSS e PHP para sua implementação.
