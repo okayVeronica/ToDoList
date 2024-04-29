@@ -17,6 +17,13 @@ Este é um simples gerenciador de tarefas implementado em PHP. Permite que os us
 O Gerenciador de Tarefas PHP é uma aplicação web que facilita o acompanhamento e organização de tarefas diárias, projetos ou listas de afazeres. Com uma interface intuitiva e fácil de usar, os usuários podem adicionar, visualizar e limpar tarefas de forma rápida e eficiente.
 
 ## Executando o Projeto
+* Para executar o projeto localmente:
+
+* 1 - Clone este repositório em seu ambiente de desenvolvimento.
+
+* 2 - Certifique-se de ter um ambiente PHP configurado em sua máquina.
+
+* 3 - Abra o arquivo index.php em um navegador web.
 
 ## Como usar
 * 1 - Cadastro de Tarefas:
